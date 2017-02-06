@@ -1,4 +1,4 @@
 theme: jekyll-theme-architect
-name: Hank Quinlan, Horrible Cop
+name: Amy
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
